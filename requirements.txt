@@ -3,5 +3,5 @@ streamlit
 pandas
 numpy
 joblib
-scikit-learn
+scikit-learn==YOUR_VERSION
 matplotlib
